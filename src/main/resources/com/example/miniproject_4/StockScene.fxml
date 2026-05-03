@@ -14,7 +14,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<BorderPane xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="beainyRichard.Controller">
+<BorderPane xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.miniproject_4.Controller">
     <top>
         <Label style="-fx-font-size: 22px; -fx-font-weight: bold;" text="Stock Management" BorderPane.alignment="CENTER" />
     </top>
